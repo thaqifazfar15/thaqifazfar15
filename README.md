@@ -1,6 +1,6 @@
 ### Hello!
 
-#### I'm a 17 years old student from Malaysia who want to be a Full-Stack Developer.
+#### I'm a 17 years old student from Malaysia who want to become a Full-Stack Developer.
 
 #### Now, I'm learning
 - NodeJS
