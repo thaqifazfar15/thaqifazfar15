@@ -4,7 +4,7 @@
 
 #### Now, I'm learning
 - NodeJS
-- NextJS
+- ReactJS
 - C Language
 - Data Structure & Algorithms
 
