@@ -5,7 +5,7 @@
 #### Now, I'm learning
 - NodeJS
 - ReactJS
-- C Language
+- C++ Language
 - Data Structure & Algorithms
 
 #### Bio
