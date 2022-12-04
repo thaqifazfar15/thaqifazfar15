@@ -2,7 +2,7 @@
 
 ### I'm Muhammad Thaqif Azfar!
 
-#### A 17 years old student from Malaysia who want to become a Full-Stack Developer.
+#### A 17 years old student from Malaysia who want to be a Full-Stack Developer.
 
 #### Now, I'm learning
 - NodeJS
